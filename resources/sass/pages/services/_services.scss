@@ -1,0 +1,18 @@
+.services{
+  &__subtitle{
+    margin-left: 2rem;
+    width: 62rem;
+    color: #0A111D;
+    font-family: "Mulish", sans-serif;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.0018rem;
+  }
+  &-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
